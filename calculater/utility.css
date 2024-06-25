@@ -1,0 +1,17 @@
+.box{
+    text-align: center;
+}
+.margin1{
+    margin: auto;
+}
+.flex{
+    display: flex;
+    
+}
+.flexCol{
+    flex-direction: column;  
+}
+.center{
+    align-items: center;
+    justify-content: center;
+}
